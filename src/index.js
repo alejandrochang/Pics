@@ -1,12 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-
+import ImageList from './ImageList';
+import SearchBar from './SearchBar';
 
 
 const App = () => {
   return (
-    <div>Hello World</div>
+    <div>
+      Hello World <br />
+      <SearchBar /><br />
+      <ImageList /> <br />
+
+    </div>
   );
 }
 
