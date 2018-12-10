@@ -2,7 +2,6 @@ import React from 'react';
 import unsplash from "../api/unsplash";
 import SearchBar from './SearchBar';
 import ImageList from './ImageList';
-import ImageCard from './ImageCard';
 
 class App extends React.Component {
   constructor(props) {
