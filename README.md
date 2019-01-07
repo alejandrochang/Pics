@@ -10,4 +10,4 @@ In the project directory, you can run: `npm start` to run this project.
 ![alt text](/app/assets/images/pics1.png)
 
 # Pics Application in Action
-![](/app/assets/images/picsgif.mp4)
+![](/app/assets/images/picgif.gif)
